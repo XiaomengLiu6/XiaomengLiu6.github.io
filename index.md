@@ -8,6 +8,8 @@ My name is Xiaomeng Liu and you could also call me Henry. I have two **cats** an
 My email address is [email](xliu63@ncsu.edu)
 
 Here are the images of my cats:
-1. Niuniu
+1. Niuniu![image_50458881](https://github.com/XiaomengLiu6/XiaomengLiu6.github.io/assets/142820054/10afab20-63de-42f5-8641-6d39b0ff653f)
+
 2. Kiki
+![image_50437889](https://github.com/XiaomengLiu6/XiaomengLiu6.github.io/assets/142820054/b721f948-dad2-4e36-8259-762884726f04)
 
