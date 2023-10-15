@@ -4,6 +4,6 @@ I will do a data analysis for the data we have. The data will be identified with
 
 My overall goal would be to figure out basic characteristics about the data, which would be helpful for further analysis.
 
-Important: visualization, data type, contingency table and frequency, and the correlation.
+Important: visualization, data type, contingency table, numerical summary, and the correlation.
 
 I will be looking for any useful information about the data. I need to understand the data better for each of its variables and each of its observations. The similarity, difference, and correlation among all data are the things I will be looking for particularly. 
