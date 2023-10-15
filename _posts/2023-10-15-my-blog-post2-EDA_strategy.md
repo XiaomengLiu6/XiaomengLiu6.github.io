@@ -1,4 +1,3 @@
-
 1. write up the strategy you use for EDA.
 I will do a data analysis for the data we have. The data will be identified with class and checked for missing values. Then, according to its type, a summary of statistics or contengency table would be applied to list out all information. After that, correlation among the variables will be studied. At the end, data visualization would be a useful tool to show what we find from the data. 
 
