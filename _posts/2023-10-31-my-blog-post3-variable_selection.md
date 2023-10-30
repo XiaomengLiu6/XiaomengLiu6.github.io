@@ -1,4 +1,4 @@
-layout:Page
+layout: page
 ---
 This is the blog post 3.
 For your blog post, write up a brief discussion of how you would plan to determine variables to use in a regression model.  
