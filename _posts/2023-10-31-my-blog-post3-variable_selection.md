@@ -7,3 +7,4 @@ variables highly correlated? Is the sample size large enough or do we need to do
 
 I would prefer to use the randomForest by caret package for the supervised study. It could avoid the influence of a strong 
 predictor in the data set. It also performs better than the common linear model selection. We do not need to use all predictors.
+
