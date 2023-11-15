@@ -19,6 +19,6 @@ The biggest take-away would be how powerful the github page is for rendering. It
 know much about creating a website and the linkes could be easily generated for each seperated md files. It is magical that we could just access 
 those pages from the main page.
 
-[Link to the repo](https://xiaomengliu6.github.io/ST558-project3/)
+This is the link to the rendered repo: [Link to the repo](https://xiaomengliu6.github.io/ST558-project3/).
 
-[Usual github repo](https://github.com/XiaomengLiu6/ST558-project3.git)
+This is the link to the usual github repo: [Usual github repo](https://github.com/XiaomengLiu6/ST558-project3.git).
