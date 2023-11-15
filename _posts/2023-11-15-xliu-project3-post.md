@@ -20,5 +20,7 @@ know much about creating a website and the linkes could be easily generated for 
 those pages from the main page.
 
 Link to the repo:
+https://xiaomengliu6.github.io/ST558-project3/
 
 Usual github repo: 
+https://github.com/XiaomengLiu6/ST558-project3.git
